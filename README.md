@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitender004" alt="jitender004" /></a> </p>
 
-- 🔭 I’m currently working on **react-project**
+- 🔭 I’m currently working on **react**
 
 - 🌱 I’m currently learning **Express, Node , React , DSA**
 
