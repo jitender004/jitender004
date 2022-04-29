@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitender004&label=Profile%20views&color=0e75b6&style=flat" alt="jitender004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitender004" alt="jitender004" /></a> </p>
-
 - 🔭 I’m currently working on **react**
 
 - 🌱 I’m currently learning **Express, Node , React , DSA**
@@ -14,13 +12,15 @@
 
 - 📝 I regularly write articles on [https://medium.com/@jerryjitu967122](https://medium.com/@jerryjitu967122)
 
-- 💬 Ask me about **React , Node , Algorithm**
+- 💬 Ask me about **React,Node,Express**
 
 - 📫 How to reach me **jitenderjattu04@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAE6GjFw-VI/S4O3-mgGHZIi-fQAt9kv4g/view?utm_content=DAE6GjFw-VI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE6GjFw-VI/S4O3-mgGHZIi-fQAt9kv4g/view?utm_content=DAE6GjFw-VI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **moddy**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitender004" alt="jitender004" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
