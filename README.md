@@ -1,20 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm jitender</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center" style="font-family: system-ui;">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitender004&label=Profile%20views&color=0e75b6&style=flat" alt="jitender004" /> </p>
+- 🔭 I’m currently working on **E-commerce webapp**
 
-- 🔭 I’m currently working on **react**
+- 🌱 I’m currently learning **React**
 
-- 🌱 I’m currently learning **Express, Node , React , DSA**
-
-- 👯 I’m looking to collaborate on **github**
+- 👯 I’m looking to collaborate on front-end & back-end projects
 
 - 📝 I regularly write articles on [https://medium.com/@jerryjitu967122](https://medium.com/@jerryjitu967122)
 
 - 💬 Ask me about **React,Node,Express**
 
 - 📫 How to reach me **jitenderjattu04@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitender004&label=Profile%20views&color=0e75b6&style=flat" alt="jitender004" /> </p>
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAE6GjFw-VI/S4O3-mgGHZIi-fQAt9kv4g/view?utm_content=DAE6GjFw-VI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE6GjFw-VI/S4O3-mgGHZIi-fQAt9kv4g/view?utm_content=DAE6GjFw-VI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
