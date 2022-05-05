@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm jitender</h1>
-<h3 align="center" style="font-family: system-ui;">A passionate full-stack developer from India</h3>
+<p align="center">
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
+</p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
 - 🔭 I’m currently working on **E-commerce webapp**
 
