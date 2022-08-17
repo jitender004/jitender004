@@ -1,8 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm jitender</h1>
 <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
 </p>
+<p>Aspiring Full Stack Web Developer with specialization in MERN Stack. Collaborative, team player who is proficient in working with different people.<p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
 - 🔭 I’m currently working on **E-commerce webapp**
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@jerryjitu967122](https://medium.com/@jerryjitu967122)
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE6GjFw-VI/S4O3-mgGHZIi-fQAt9kv4g/view?utm_content=DAE6GjFw-VI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE6GjFw-VI/S4O3-mgGHZIi-fQAt9kv4g/view?utm_content=DAE6GjFw-VI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tHmFuAo9LWLw_-sBd4ksSbxh95NKryDo/view?usp=sharing](https://drive.google.com/file/d/1tHmFuAo9LWLw_-sBd4ksSbxh95NKryDo/view?usp=sharing)
 
 - ⚡ Fun fact :- **Debugging is twice as hard as writing the code in the first place.**
 - 
@@ -30,7 +30,6 @@
 <a href="https://dev.to/https://dev.to/jitender004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jitender004" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/04jitujatu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/04jitujatu/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18972243/jitender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18972243/jitender" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jattujitender/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jattujitender/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/jitender004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jitender004/" height="30" width="40" /></a>
 </p>
 
