@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@jerryjitu967122](https://medium.com/@jerryjitu967122)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tHmFuAo9LWLw_-sBd4ksSbxh95NKryDo/view?usp=sharing](https://drive.google.com/file/d/1tHmFuAo9LWLw_-sBd4ksSbxh95NKryDo/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17Y85YR419eJcUx15oGkJ663iq8SuWZTR/view?usp=sharing](https://drive.google.com/file/d/17Y85YR419eJcUx15oGkJ663iq8SuWZTR/view?usp=sharing)
 
 - ⚡ Fun fact :- **Debugging is twice as hard as writing the code in the first place.**
 - 
